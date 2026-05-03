@@ -16,7 +16,5 @@ public class EBook extends Book {
         super(title, author, isbn, isAvailable);  
         this.fileSize = fileSize; 
     }
-
-    
-    
+  
 }
