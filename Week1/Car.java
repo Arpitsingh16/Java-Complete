@@ -10,8 +10,6 @@ public class Car {
 }
  
 class Vehicle{
-    private String brand;
-    private int year;
 
     void start(String brand, int year){
         System.out.println("This is a " + brand + " car from " + year );
